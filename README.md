@@ -79,7 +79,7 @@ Computer Science Engineering student focused on backend development and building
 * Used **PostgreSQL with Hibernate/JPA** for data persistence and Flyway for database migrations.
 * Added request validation, global exception handling, Swagger/OpenAPI documentation, and JUnit 5 unit and integration tests.
 
-[GitHub Repository](#)
+[GitHub Repository](https://github.com/mi-vaishnavi/multi-tenant-saas-backend)
 
 ---
 
@@ -91,7 +91,7 @@ Computer Science Engineering student focused on backend development and building
 * Integrated an XGBoost prediction model through FastAPI, achieving **96.7% recall and 93.3% F1-score**.
 * Used **MongoDB Atlas** for data management and integrated Gemini API for personalized diet and exercise recommendations.
 
-[GitHub Repository](#)
+[GitHub Repository](https://github.com/mi-vaishnavi/PCOS-Tracker)
 
 ---
 
@@ -103,7 +103,7 @@ Computer Science Engineering student focused on backend development and building
 * Implemented real-time GPS tracking and automated SMS alerts, including offline SOS support through cellular SMS.
 * Built a Flask REST API for user authentication and emergency contact management.
 
-[GitHub Repository](#)
+[GitHub Repository](https://github.com/mi-vaishnavi/Women-Safety)
 
 ---
 
@@ -115,6 +115,15 @@ Computer Science Engineering student focused on backend development and building
 * Data Structures & Algorithms
 
 ---
+
+## 🧭 Looking for Guidance
+
+I’m currently looking for guidance on:
+
+* **DSA:** problem-solving approaches, patterns, and improving consistency
+* **Backend:** designing and building production-ready Java & Spring Boot applications
+* **System Design:** learning how to design scalable backend systems
+* **Open Source:** making meaningful contributions and improving through real-world code
 
 ## 🌐 Open Source Contributions
 
@@ -133,6 +142,6 @@ Computer Science Engineering student focused on backend development and building
 
 ## 🤝 Connect With Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/majoju-vaishnavi-244945299/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/majojuvaishnavi/)
 * 🌐 [Portfolio](https://mi-vaishnavi.github.io/My-Portfolio/)
 * 💻 [GitHub](https://github.com/mi-vaishnavi)
