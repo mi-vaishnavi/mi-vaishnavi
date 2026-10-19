@@ -70,7 +70,7 @@ Computer Science Engineering student at Osmania University with hands-on experie
 
 ## 💼 Experience
 
-### Software Developer Intern — IRA Labs
+### Intern — IRA Labs
 
 **May 2026 – July 2026**
 
