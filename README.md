@@ -146,6 +146,5 @@ Computer Science Engineering student at Osmania University with hands-on experie
 ## 🤝 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/majojuvaishnavi/)
-- 🌐 [Portfolio](https://mi-vaishnavi.github.io/My-Portfolio/)
 - 💻 [GitHub](https://github.com/mi-vaishnavi)
 - 📧 [Email](mailto:majojuvaishnavi@gmail.com)
